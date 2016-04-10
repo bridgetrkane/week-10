@@ -126,4 +126,4 @@ At this point, we should have a fully functional map ready to be
 published to the web. Click `Publish` in the top right, and grab the
 CartoDB.js link for later use in the assignment.
 
-
+https://bridgetrkane.cartodb.com/viz/eb502dfa-fb3b-11e5-bd49-0ea31932ec1d/public_map
